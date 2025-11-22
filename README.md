@@ -1,2 +1,2 @@
 # Capstone-Project-Education-Access-Insight-Dashboard
-This project explores global education access using World Bank data. It includes a FastAPI backend, SQLite database, and Streamlit dashboard to show trends in literacy, enrollment, and gender gaps, helping users understand educational inequalities around the world.
+This project analyzes global education access using data from the World Bank. We built a FastAPI backend, a SQLite database, and a Streamlit dashboard to visualize literacy rates, school enrollment, and gender gaps across countries. The goal is to help users explore educational inequalities around the world through clear visualizations and data-driven insights.
