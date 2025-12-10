@@ -1,4 +1,4 @@
-📈 Inclusive Growth Insights Dashboard
+📈 US Inclusive Growth Insights Dashboard
 ------------------------------------------------
 A Data Visualization Capstone Project
 ------------------------------------------------------------------------------
