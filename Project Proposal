@@ -4,13 +4,13 @@ The Inclusive Growth Insights Dashboard is a full-stack web application that ana
 
 This dashboard transforms Inclusive Growth Score data into clear visual insights that help users:
 
-Compare levels of economic inclusion between communities
+- Compare levels of economic inclusion between communities
 
-Identify regions with limited access to opportunity
+- Identify regions with limited access to opportunity
 
-Understand patterns in growth and inequality
+- Understand patterns in growth and inequality
 
-Support data-informed decision making for community development
+- Support data-informed decision making for community development
 
 Our goal is to highlight where support and strategic investment may be needed to ensure that economic growth is fair and accessible for everyone.
 
@@ -25,10 +25,10 @@ Christina Monét Talbert	Frontend & Visualization Lead	Designs and builds the St
 
 Together, the team collaborates on:
 
-System architecture and data flow design
+- System architecture and data flow design
 
-Dataset understanding and transformation decisions
+- Dataset understanding and transformation decisions
 
-Ethical considerations and transparency in insights
+- Ethical considerations and transparency in insights
 
-GitHub version control and code reviews
+- GitHub version control and code reviews
