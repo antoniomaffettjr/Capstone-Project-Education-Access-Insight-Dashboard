@@ -46,22 +46,4 @@ This project focuses on real-world social impact by highlighting where investmen
 
 ✔ Peer reviews to evaluate design feasibility
 
-📊 Dashboard Insight Features
--
-Users will be able to:
 
-- Compare Inclusive Growth Scores by region or community
-
-- Identify inequality gaps in access to economic opportunity
-
-- Highlight the top + bottom performing areas
-
-- Analyze score distributions to understand spread of opportunity
-
-Planned chart types:
--
-- Ranked bar charts
-
-- Score distribution visualization
-
-- Regional comparison breakdowns
