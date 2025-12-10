@@ -1,6 +1,67 @@
-# Capstone-Project-Education-Access-Insight-Dashboard
-This project analyzes global education access using data from the World Bank. We built a FastAPI backend, a SQLite database, and a Streamlit dashboard to visualize literacy rates, school enrollment, and gender gaps across countries. The goal is to help users explore educational inequalities around the world through clear visualizations and data-driven insights.
-Team - Christina Talbert - Frontend development, data visualization, and CI/CD setup. Antonio Maffett Jr - Backend Development, data management, and testing.
-Planned milestones - Week 1 Planning phase (select dataset, write proposal, create diagrams, set up Github and figure out roles). 
-Week 2 Frontend and Backend Development (Build FastAPI, set up SQLite, Build Streamlit UI, add charts, and connect frontend and backend). 
-Week 3 Finalizing ( Write up documentation/presentation, prepare demo) 
+📈 Inclusive Growth Insights Dashboard
+------------------------------------------------
+A Data Visualization Capstone Project
+------------------------------------------------------------------------------
+🧠 Project Overview
+-------------
+Economic growth is not experienced equally across communities. Some areas benefit from rising business activity and opportunity, while others remain historically excluded. The Inclusive Growth Insights Dashboard is designed to explore how economic access varies by region, helping users identify opportunity-rich vs. opportunity-limited communities.
+
+Our dashboard translates complex Inclusive Growth Score data into clear, interactive visuals that support:
+
+- Community development organizations
+
+- Policy and social justice research
+
+- Students and educators exploring equity in economics
+
+This project focuses on real-world social impact by highlighting where investment, advocacy, and growth strategies are most needed.
+| Phase             | Goals                                                                                |
+| ----------------- | ------------------------------------------------------------------------------------ |
+| **Planning**      | Define requirements, roles, dataset use, ethical handling, and architecture diagrams |
+| **Development**   | Build backend API + database structure                                               |
+| **Visualization** | Create Streamlit dashboard with filtering & insight features                         |
+| **Finalization**  | Document findings, deploy dashboard, polish user experience                          |
+
+----------------------------------------
+
+| Layer           | Tool      | Purpose                           |
+| --------------- | --------- | --------------------------------- |
+| Frontend        | Streamlit | Dashboard UI & insights           |
+| Backend         | FastAPI   | REST API + business logic         |
+| Database        | SQLite    | Structured local data storage     |
+| Data Processing | Pandas    | Cleaning, loading, transformation |
+| Version Control | GitHub    | Collaboration, issue tracking     |
+
+🔁 Planning Process (Phase 1)
+-
+✔ Dataset selected: Inclusive Growth Score Data
+
+✔ Project proposal drafted and submitted
+
+✔ Team roles defined to prevent coding overlap
+
+✔ Repo structure established with organized folders
+
+✔ Architecture & data flow diagrams planned
+
+✔ Peer reviews to evaluate design feasibility
+
+📊 Dashboard Insight Features
+-
+Users will be able to:
+
+- Compare Inclusive Growth Scores by region or community
+
+- Identify inequality gaps in access to economic opportunity
+
+- Highlight the top + bottom performing areas
+
+- Analyze score distributions to understand spread of opportunity
+
+Planned chart types:
+-
+- Ranked bar charts
+
+- Score distribution visualization
+
+- Regional comparison breakdowns
